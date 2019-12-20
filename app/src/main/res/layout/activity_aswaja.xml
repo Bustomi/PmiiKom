@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".landasan.Aswaja">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/asw1"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/asw2"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw3"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw4"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw5"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw6"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw7"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw8"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw9"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw10"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw11"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw12"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw13"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw14"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw15"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/asw16"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw17"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw18"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw19"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw20"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw21"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw22"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw23"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/asw24"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw25"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw26"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw27"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw28"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw28"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw29"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw30"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw31"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw32"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw33"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw34"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw35"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw36"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/asw37"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw38"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw39"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw40"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw41"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw42"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw43"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw44"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/asw45"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw46"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw47"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw48"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw49"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw50"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw51"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw52"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw53"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw54"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw55"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw56"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw57"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw58"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/asw59"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw60"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/asw61"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/asw62"
+            android:textAlignment="center"
+            android:textColor="@color/black"/>
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/asw63"
+            android:textAlignment="center"
+            android:textColor="@color/black"/>
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw64"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw65"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw5"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw6"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw7"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw8"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw9"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw10"
+            android:textAlignment="center"
+            android:textColor="@color/black"/>
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw11"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw12"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw13"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw14"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw15"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/asw16"
+            android:textAlignment="center"
+            android:textColor="@color/black"/>
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw17"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw18"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw19"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw20"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw21"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw22"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw23"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/asw24"
+            android:textAlignment="center"
+            android:textColor="@color/black"/>
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw25"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw26"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw27"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw28"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw28"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw29"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw30"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw31"
+            android:textAlignment="center"
+            android:textColor="@color/black"/>
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw32"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw33"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw34"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw35"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw36"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/asw37"
+            android:textAlignment="center"
+            android:textColor="@color/black"/>
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw38"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw39"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw40"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw41"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw42"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw43"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw44"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/asw45"
+            android:textAlignment="center"
+            android:textColor="@color/black"/>
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw46"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw47"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw48"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw49"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw50"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw51"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw52"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw53"
+            android:textAlignment="center"
+            android:textColor="@color/black"/>
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw54"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw55"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw56"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw57"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw58"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/asw59"
+            android:textAlignment="center"
+            android:textColor="@color/black"/>
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw60"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/asw61"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
+    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

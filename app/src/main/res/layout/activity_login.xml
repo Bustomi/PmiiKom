@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.kempaka.pmiikom.database.upload_data">
+
+    <!--<include-->
+        <!--android:id="@+id/update"-->
+        <!--layout="@layout/activity_main"-->
+        <!--/>-->
+
+    <ImageButton
+        android:id="@+id/imageupload"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:scaleType="centerCrop"
+        android:layout_margin="10dp"
+        android:background="@drawable/ic_image_black_24dp"
+        />
+
+    <EditText
+        android:id="@+id/isipesan"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/button"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:hint="isi ajah dlu "
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/ambil_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Images"/>
+
+
+
+
+</LinearLayout>
